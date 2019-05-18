@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "532603108394",
+    "firebase_url": "https://scanner-3df2b.firebaseio.com",
+    "project_id": "scanner-3df2b",
+    "storage_bucket": "scanner-3df2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532603108394:android:dddf4819c5daef6c",
+        "android_client_info": {
+          "package_name": "com.wordpress.a72arkarcy.scanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532603108394-ac3144n516akhetuto2ekckfq2jk4t22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wordpress.a72arkarcy.scanner",
+            "certificate_hash": "08cf64f43f224c761a4ec94ac0516541ddaa31ee"
+          }
+        },
+        {
+          "client_id": "532603108394-hp64tikbtqj5squls1ldmihtsfbd2tlh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0af7glaY2vBEeghFu0aLvASlTv46sIVo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532603108394-hp64tikbtqj5squls1ldmihtsfbd2tlh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
